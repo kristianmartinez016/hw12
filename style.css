@@ -30,8 +30,8 @@ body{
   height: 150px;
 }
 
-.flex{
-  
+.flex {
+  display: flex;
 }
 
 .infl {
