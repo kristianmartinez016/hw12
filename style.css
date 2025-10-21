@@ -66,11 +66,11 @@ body{
 }
 
 .side {
-
+  flex-grow: 1;
 }
 
 .middle {
-
+  flex-grow: 2;
 }
 
 
