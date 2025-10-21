@@ -68,11 +68,13 @@ body{
 .side {
   flex-grow: 1;
   flex-shrink: 2;
+  flex-basis: 80px;
 }
 
 .middle {
   flex-grow: 2;
   flex-shink: 1;
+  flex-basis: 40px;
 }
 
 
